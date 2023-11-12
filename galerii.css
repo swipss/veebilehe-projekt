@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Edu+TAS+Beginner&display=swap');
+
 .container {
     width: 50%;
     min-height: 100vh;
@@ -5,21 +7,23 @@
     align-items: center;
     justify-content: center;
     padding: 50px 8%;
+    margin: 0 auto;
 }
 .galerii {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 30px;
+    grid-gap: 8px;
     justify-content: center;
+    margin: 0 auto;
 }
 
 .pilt {
-    max-width: 400%;
+    max-width: 100%;
     max-height: 300px;
     width: auto;
     height: auto;
     object-fit: contain;
-    margin: auto;
+    margin: 15px;
 }
 
 body {
