@@ -71,7 +71,7 @@ nav ul  {
 }
 
 .container {
-    background-image: url('containerbg.jpg');
+    background-image: url('pildid/containerbg.jpg');
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -104,7 +104,7 @@ nav ul  {
 
 .landing-container {
     position: relative;
-    background: url('bg.jpeg');
+    background: url('pildid/bg.jpeg');
     width: 100%;
     height: 700px;
     background-size: cover;
