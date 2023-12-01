@@ -62,3 +62,8 @@ h1 {
     margin-bottom: 50px; 
     margin-top: 50px;
 }
+
+.fullscreen {
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}

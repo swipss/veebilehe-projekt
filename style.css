@@ -252,6 +252,15 @@ box-shadow: 1px 0px 53px 8px rgba(255, 199, 0, 0.18);
     height: auto;
 }
 
+.fullscreen {
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.fullscreen:hover {
+    transform: scale(1.05);
+}
+
 .gallery-container button {
     appearance: none;
         -webkit-appearance: none;
@@ -303,4 +312,5 @@ box-shadow: 1px 0px 53px 8px rgba(255, 199, 0, 0.18);
         transform: translateY(0);
     }
 }
+
 
