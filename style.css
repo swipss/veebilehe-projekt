@@ -286,20 +286,13 @@ box-shadow: 1px 0px 53px 8px rgba(255, 199, 0, 0.18);
     gap: 40px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+iframe {
+    margin-bottom: 150px;
+    border-radius: 20px;
+    box-shadow: 1px 0px 53px 8px rgba(255, 255, 255, 0.1);
+        -webkit-box-shadow: 1px 0px 53px 8px rgba(255, 255, 255, 0.1);
+        -moz-box-shadow: 1px 0px 53px 8px rgba(255, 255, 255, 0.1);
+}
 
 @keyframes fadeUp {
     from {
