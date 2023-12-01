@@ -1,3 +1,4 @@
+// ise kirjutatud
 // võtab kõik elemendid class-iga "fullscreen" ja loopib ükshaaval kõik üle, lisades neile peale klikimise "kuulaja" ehk teeb midagi, kui peale vajutatakse
 document.querySelectorAll('.fullscreen').forEach(function(img) {
     // lisatakse class pildi positsiooni ja suuruse muutmiseks
